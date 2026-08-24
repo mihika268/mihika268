@@ -58,6 +58,3 @@ So that's the loop I stick to.
 
 ### 💭 *Build. Learn. Secure. Repeat.* 🚀
 
-![Profile Views](https://komarev.com/ghpvc/mihika268\&color=blue)
-
-<!-- Replace YOUR_GITHUB_USERNAME with your actual GitHub username -->
