@@ -52,7 +52,7 @@ So that's the loop I stick to.
 
 ## 🤝 Let's Connect
 
-📧 **Email:** mihikapal283@gmail.com
+📧 [mihikapal283@gmail.com](mailto:mihikapal283@gmail.com)
 
 ---
 
