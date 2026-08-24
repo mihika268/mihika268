@@ -49,7 +49,7 @@ I've found that I understand a concept properly only after I've built something 
 So that's the loop I stick to.
 
 
-## Let's Connect
+## 🤝 Let's Connect
 
 📧 [mihikapal283@gmail.com](mailto:mihikapal283@gmail.com)
 
