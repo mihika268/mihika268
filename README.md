@@ -24,7 +24,7 @@
 | Core | PDF Processing · Grounded Q&A |
 | Deployment | Vercel |
 
-**[🌐 Live Demo](https://docmind-chat-dusky.vercel.app/)** · **[📂 Source Code](YOUR_DOCMIND_GITHUB_REPO_URL)**
+**[🌐 Live Demo](https://docmind-chat-dusky.vercel.app/)** · **[📂 Source Code](https://github.com/mihika268/docmind-chat)**
 
 ---
 
@@ -41,7 +41,7 @@
 | Features | Secure & Vulnerable Authentication |
 | Deployment | Vercel |
 
-**[🌐 Live Demo](https://auth-shield-one.vercel.app/)** · **[📂 Source Code](YOUR_AUTHSHIELD_GITHUB_REPO_URL)**
+**[🌐 Live Demo](https://auth-shield-one.vercel.app/)** · **[📂 Source Code](https://github.com/mihika268/AuthShield)**
 
 ---
 
@@ -56,7 +56,7 @@
 | Project Type | Group Project |
 | Deployment | Vercel |
 
-**[🌐 Live Demo](https://e-waste-manager.vercel.app/)** · **[📂 Source Code](YOUR_EWASTE_GITHUB_REPO_URL)**
+**[🌐 Live Demo](https://e-waste-manager.vercel.app/)** · **[📂 Source Code](https://github.com/mihika268/e-waste-manager)**
 
 ---
 ## 🛠️ Tech Stack
