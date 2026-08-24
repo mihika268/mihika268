@@ -1,59 +1,111 @@
-# Hi, I'm Mihika Pal 👋
+<h1 align="center">Mihika Pal</h1>
 
-### B.Tech CSE Student | Full-Stack Developer | Cybersecurity & AI Enthusiast
+<h3 align="center">
+  B.Tech CSE Student | AI • Web Development • Cybersecurity
+</h3>
 
-I'm a **B.Tech Computer Science student** who likes turning ideas into working software. My focus sits at the intersection of **web development, cybersecurity, and AI** — I enjoy the process of learning a concept, building something with it, and then figuring out what breaks.
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=6C63FF&height=180&section=header&text=Mihika%20Pal&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=40" />
+</p>
 
 ---
 
+## 🚀 Featured Projects
+
+### 🤖 DocMind AI
+
+**AI-powered PDF document intelligence with grounded answers and source citations.**
+
+| Layer | Technology |
+|---|---|
+| Frontend | HTML · CSS · JavaScript |
+| Backend | Python · Flask |
+| AI | RAG · LLM |
+| Core | PDF Processing · Grounded Q&A |
+| Deployment | Vercel |
+
+**[🌐 Live Demo](https://docmind-chat-dusky.vercel.app/)** · **[📂 Source Code](YOUR_DOCMIND_GITHUB_REPO_URL)**
+
+---
+
+### 🛡️ AuthShield
+
+**Security-focused authentication platform for demonstrating common login vulnerabilities and secure coding practices.**
+
+| Layer | Technology |
+|---|---|
+| Frontend | HTML · CSS · JavaScript |
+| Backend | Python · Flask |
+| Database | SQLite |
+| Security | Password Hashing · CSRF · Rate Limiting |
+| Features | Secure & Vulnerable Authentication |
+| Deployment | Vercel |
+
+**[🌐 Live Demo](https://auth-shield-one.vercel.app/)** · **[📂 Source Code](YOUR_AUTHSHIELD_GITHUB_REPO_URL)**
+
+---
+
+### ♻️ E-Waste Manager
+
+**Web application designed to promote responsible e-waste management and encourage responsible electronic waste disposal.**
+
+| Layer | Technology |
+|---|---|
+| Frontend | HTML · CSS · JavaScript |
+| Core | E-Waste Management |
+| Project Type | Group Project |
+| Deployment | Vercel |
+
+**[🌐 Live Demo](https://e-waste-manager.vercel.app/)** · **[📂 Source Code](YOUR_EWASTE_GITHUB_REPO_URL)**
+
+---
 ## 🛠️ Tech Stack
 
 ### 💻 Languages
 
-`Python` · `Java` · `JavaScript`
+<p>
+  <img src="https://skillicons.dev/icons?i=python,java,js" height="48" />
+</p>
 
 ### 🌐 Web Development
 
-`HTML5` · `CSS3` · `Flask`
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,flask" height="48" />
+</p>
 
 ### 🗄️ Databases & Tools
 
-`SQLite` · `Git` · `GitHub`
+<p>
+  <img src="https://skillicons.dev/icons?i=sqlite,git,github,vscode" height="48" />
+</p>
 
----
 
-## 🚀 What I'm Into
+## 🧠 About Me
 
-I care most about building things that are both **functional and secure** — full-stack applications, AI-powered tools, and projects that solve real problems rather than just look good in a portfolio.
+I'm a **B.Tech Computer Science student** who likes turning ideas into working software.
 
-Right now, I'm deepening my understanding of:
+My interests sit at the intersection of **web development, cybersecurity, and AI**. I enjoy learning a concept, building something with it, testing what breaks, and improving it from there.
 
-* 🧩 **Data Structures & Algorithms**
-* 🔐 **Cybersecurity & Secure Coding**
-* 🤖 **Artificial Intelligence & Machine Learning**
-* 🌐 **Full-Stack Web Development**
-* 🚀 **Building and shipping practical projects**
+Currently, I'm focused on:
 
-I'm also trying to get better at just **shipping things, not just planning them.**
+- 🧩 Data Structures & Algorithms
+- 🔐 Cybersecurity & Secure Coding
+- 🤖 Artificial Intelligence & Machine Learning
+- 🌐 Full-Stack Web Development
+- 🚀 Building and shipping practical projects
 
 ---
 
 ## 🔄 How I Work
 
-```text
-Learn → Build → Test → Improve → Repeat
-```
+> **Learn → Build → Test → Improve → Repeat**
 
-I've found that I understand a concept properly only after I've built something with it and watched it fail a few times.
-
-So that's the loop I stick to.
-
-
-## 🤝 Let's Connect
-
-📧 [mihikapal283@gmail.com](mailto:mihikapal283@gmail.com)
+I understand a concept properly when I can turn it into something real, break it, fix it, and improve it.
 
 ---
 
-### 💭 *Build. Learn. Secure. Repeat.* 🚀
+## 🤝 Let's Connect
 
+📧 **[mihikapal283@gmail.com](mailto:mihikapal283@gmail.com)**
+
+---
