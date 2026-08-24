@@ -50,29 +50,6 @@ So that's the loop I stick to.
 
 ---
 
-## 📌 What You'll Find Here
-
-This profile is where I document my journey through:
-
-* 🔨 Personal and academic projects
-* 🔐 Security-focused applications
-* 🤖 AI-powered experiments
-* 🌐 Full-stack web applications
-* 🧪 Experiments and learning projects
-* 📚 Things I'm currently exploring
-
----
-
-## 📈 Currently Learning
-
-* Data Structures & Algorithms
-* Secure Software Development
-* Machine Learning Fundamentals
-* Better Software Architecture
-* Building production-ready applications
-
----
-
 ## 🤝 Let's Connect
 
 📧 **Email:** mihikapal283@gmail.com
