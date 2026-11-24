@@ -56,7 +56,7 @@
 | Project Type | Group Project |
 | Deployment | Vercel |
 
-**[🌐 Live Demo](https://e-waste-manager.vercel.app/)** · **[📂 Source Code](https://github.com/mihika268/e-waste-manager)**
+ · **[📂 Source Code](https://github.com/mihika268/e-waste-manager)**
 
 ---
 ## 🛠️ Tech Stack
